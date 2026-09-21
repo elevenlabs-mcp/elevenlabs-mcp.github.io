@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elevenlabs-mcp.github.io/sitemap.xml
